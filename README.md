@@ -9,5 +9,7 @@ These projects often accompany my YouTube videos and aim to help others learn by
 Below are detailed walkthroughs for each project, hosted in their own repositories:
 
 - 🔍 [Honeypot Deployment on AWS (T-Pot)](https://github.com/HumbertoRdz/honeypot-deployment) — Full installation and analysis process with screenshots and explanations.
+- ☁️ [Cloud Resume Challenge](https://github.com/HumbertoRdz/Cloud-Resume-Challenge) — Serverless portfolio site using S3, CloudFront, Lambda, API Gateway, and DynamoDB. Includes CI/CD automation with GitHub Actions.
+
 
 *(More projects coming soon...)*
